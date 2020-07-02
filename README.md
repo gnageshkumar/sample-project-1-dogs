@@ -1,1 +1,1 @@
-# sample-project-1-dogs
+TinDog Starting Files
